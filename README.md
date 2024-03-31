@@ -1,0 +1,1 @@
+need a .env file with TOKEN and CLIENT_ID
